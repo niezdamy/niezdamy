@@ -12,7 +12,7 @@ Pro-active cloud enthusiast, FullStack Developer with .Net background and 7+ yea
 
 ## 🏆 Achievments:
 
-- First place with team in Hackaton OpenData organized by Polish Goverment and NASK [http://hackathon.gov.pl](http://hackathon.gov.pl) 06.2019
+- First place with team in Hackaton OpenData organized by Polish Goverment and NASK (2019 edition) [http://hackathon.gov.pl](http://hackathon.gov.pl)
 - Meetups prelegent (CodeBB, MeeTech)
 - Just Bread App Creator (From zero knowledge of mobile development to ready application in App Store and Google Play in 1,5 month - Developed With Flutter)
 
